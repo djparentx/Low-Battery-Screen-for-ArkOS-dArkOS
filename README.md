@@ -7,3 +7,5 @@ Or copy low_battery.bmp to /boot/.
 <img width="640" height="480" alt="Abjo5-2" src="https://github.com/user-attachments/assets/0fc76178-54a6-4674-8e57-38b8420ca8a9" />
 
 <img width="640" height="480" alt="low_battery3" src="https://github.com/user-attachments/assets/8830fbd4-41a4-4157-acd0-63a32f71d1b0" />
+
+<img width="640" height="480" alt="low_battery4" src="https://github.com/user-attachments/assets/9436768d-0116-407f-845b-81a83f967531" />
